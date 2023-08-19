@@ -21,7 +21,7 @@ class Routes{
           return Scaffold(
             body: Center(
               child: Text(
-                'Noroutes define'
+                'No routes define'
               ),
             ),
           );
